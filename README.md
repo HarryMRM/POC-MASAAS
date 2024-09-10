@@ -18,4 +18,5 @@ Este sistema simula las siguientes funcionalidades:
    javac Main.java
    java Main
    ```
-## Diagrama de arquitectura
+## Diagrama de arquitectura y documentación
+https://docs.google.com/document/d/1f8-rcJRR7uzQaXg02FgdzN_ugcoNonMraOnwAsJo5Os/edit?usp=sharing
